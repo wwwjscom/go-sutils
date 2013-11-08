@@ -1,4 +1,4 @@
-// A module to make string operations I do often, thus mkaing them more readable
+// A module of string operations I do often, thus mkaing them more readable
 package sutils
 
 import "strings"

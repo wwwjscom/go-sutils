@@ -8,10 +8,8 @@ type testcase struct {
 }
 
 var testcases []testcase
-//var mysql_conn *Mysql
 
 func init() {
-    //mysql_conn = new(Mysql)
     testcases = []testcase{
         {
             "this is a simple test",
